@@ -1,0 +1,1 @@
+Interplanetary Archer is a mathematics based game that involves calculating gravity in real time to effect player projectiles and planets. It is written entirely in pygame, this version offers a local game however there is a rudimentary multiplayer version. I primarily worked on sprites, player class, gui class, and quality of life fixes.
