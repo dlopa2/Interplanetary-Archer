@@ -1,0 +1,18 @@
+{
+  "planets": [
+    {"x": 640, "y": 360, "radius": 60, "mass":  59720, "sprite": "planet1.png", "static": 1},
+    {"x": 190, "y": 560, "radius": 50, "mass":  59720, "sprite": "planet2.png", "static": 1},
+    {"x": 1090, "y": 160, "radius": 50, "mass":  59720, "sprite": "planet3.png", "static": 1},
+    {"x": 1090, "y": 560, "radius": 50, "mass":  59720, "sprite": "planet4.png", "static": 1}
+  ],
+
+  "moons": [
+    {"x": 755, "y": 360, "radius": 12, "mass":  7348, "sprite": "moon.png", "static": 0, "parent": 0},
+    {"x": 190, "y": 677, "radius": 14, "mass":  8348, "sprite": "moon.png", "static": 0, "parent": 1},
+    {"x": 970, "y": 160, "radius": 16, "mass":  9348, "sprite": "moon.png", "static": 0, "parent": 2}
+  ],
+
+  "targets": [
+    {"x": 1190, "y": 160, "radius": 10}
+  ]
+}
